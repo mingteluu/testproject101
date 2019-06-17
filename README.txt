@@ -1,3 +1,5 @@
+Fixing issue #3000 
+ 
  Copyright (C) 2003-2008 Benny Prijono <benny@prijono.org>
  Copyright (C) 2008-2011 Teluu Inc. (http://www.teluu.com)
  # test adding copyright line
